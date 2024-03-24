@@ -12,5 +12,5 @@ The repository contains 4 files, their use cases are as follows:
 - shortes_path_algo.cypher (Contains algo code for Delta-Stepping Single-Source Shortest Path)</br>
 
 ## Presentation
-The deck presented during the talk can be downloaded from Google Drive link [here.](https://drive.google.com/file/d/1bZlTUc9zJY6wvzY9ysLXkUPmQ2_pnB3-/view?usp=drive_link)
+The deck presented during the talk can be downloaded from Google Drive link [here.](https://drive.google.com/file/d/1aOd59eBkv9AD3jJc6swXWKDuIfsB0JIY/view?usp=sharing)
 
